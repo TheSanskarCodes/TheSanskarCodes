@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sanskar! 👋
+
+I am a Software Developer specializing in Java and Spring Boot.
+
+## 🚀 Skills & Technologies
+* **Languages:** Java, SQL
+* **Frameworks:** Spring Boot, Hibernate
+* **Tools:** Git, GitHub, Postman, Maven
+
+## 🔭 Currently Working On
+* Mastering Microservices architecture
+* Building a notification processor project
 
 <!--
 **TheSanskarCodes/TheSanskarCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
