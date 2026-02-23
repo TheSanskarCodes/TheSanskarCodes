@@ -13,7 +13,6 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheSanskarCodes&show_icons=true&theme=radical&hide_border=true" alt="Sanskar's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=TheSanskarCodes&theme=radical&hide_border=true" alt="Sanskar's GitHub Streak" />
 </p>
 
