@@ -15,7 +15,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TheSanskarCodes&theme=radical&hide_border=true" alt="Sanskar's GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/TheSanskarCodes?theme=dark&cardType=level" height="185" alt="GitHub Level"/>
+</p>
 <br>
 
 <h3 align="center">📫 Let's Connect</h3>
@@ -26,11 +28,11 @@
   <a href="mailto:thesanskarcodes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-   <a href="https://leetcode.com/u/thenullpointer/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+   <a href="https://leetcode.com/u/thesanskarcodes/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TheNullPointer.TheNullPointer" alt="Visitor Badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TheSanskarCodes.TheSanskarCodes" alt="Visitor Badge"/>
 </p>
